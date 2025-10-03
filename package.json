@@ -1,6 +1,7 @@
 {
   "name": "client",
   "private": true,
+    "homepage": "https://ledionnezirii.github.io/reactApp",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
